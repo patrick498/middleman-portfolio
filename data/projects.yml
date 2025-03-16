@@ -1,22 +1,8 @@
-- name: Longest Word Game
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: true
-
-- name: Sora V
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
+- name: SoraVé
+  description: A web app where users rent luxury vehicles —cars, private jets, yachts— while owners can list and manage their rentals seamlessly.
+  image: projects/sora-ve.png
+  url: https://sora-v-d0ff57552de4.herokuapp.com
+  github: https://github.com/patrick498/sora-vehicles
   online: true
 
 - name: Sora Flight
@@ -25,10 +11,3 @@
   url: https://www.sora-flights.games
   github: https://github.com/patrick498/sora_flight
   online: true
-
-- name: Yelp
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-  github: https://www.github.com
-  online: false
