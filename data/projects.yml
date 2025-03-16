@@ -1,0 +1,34 @@
+- name: Longest Word Game
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+  github: https://www.github.com
+  online: true
+
+- name: Movie Watchlist
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+  github: https://www.github.com
+  online: true
+
+- name: Sora V
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+  github: https://www.github.com
+  online: true
+
+- name: Sora Flight
+  description: A web app that tracks nearby flights in real time, displaying them in an interactive AR view. Users can test their knowledge with engaging quizzes based on live flight data.
+  image: projects/sora-flight.png
+  url: https://www.sora-flights.games
+  github: https://github.com/patrick498/sora_flight
+  online: true
+
+- name: Yelp
+  description: Decent description of the app
+  image: projects/placeholder.png
+  url: https://www.google.com
+  github: https://www.github.com
+  online: false
