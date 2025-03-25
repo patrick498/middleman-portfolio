@@ -8,6 +8,6 @@
 - name: Sora Flight
   description: A web app that tracks nearby flights in real time, displaying them in an interactive AR view. Users can test their knowledge with engaging quizzes based on live flight data.
   image: projects/sora-flight.png
-  url: https://www.sora-flights.games
+  url: https://www.sora-flight.games
   github: https://github.com/patrick498/sora_flight
   online: true
